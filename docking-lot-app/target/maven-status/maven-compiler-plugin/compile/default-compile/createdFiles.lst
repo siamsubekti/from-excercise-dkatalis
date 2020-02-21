@@ -1,0 +1,7 @@
+com\enigma\impl\FixedReaderDaoImpl.class
+com\enigma\dao\FixedReaderDao.class
+com\enigma\impl\BoatDaoImpl.class
+com\enigma\MainApplication.class
+com\enigma\constanta\MessageConstant.class
+com\enigma\dao\BoatDao.class
+com\enigma\model\Boat.class
